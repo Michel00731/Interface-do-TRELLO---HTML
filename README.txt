@@ -6,4 +6,5 @@ Projeto desenvolvido utilizando HTML5.
 - HTML5
 
 ## Objetivo
-Praticar estrutura semântica e utilização de formulários
+
+Praticar estrutura semântica e utilização de formulários junto com imagens
